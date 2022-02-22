@@ -1,0 +1,96 @@
+.modaldiv{
+    margin: auto;
+    margin-top: 2vh;
+    width: 40vw;
+    height:100%;
+    background: #FFFFFF;
+    border-radius: 1vw;
+    box-shadow: 3px 3px 3px 3px rgba(0,0,0,0.5),2px 2px rgba(0,0,0,0.3),2px 2px rgba(0,0,0,0.1);
+    -webkit-border-radius: 1vw;
+    -moz-border-radius: 1vw;
+    -ms-border-radius: 1vw;
+    -o-border-radius: 1vw;
+    padding: 1vh 2vw;
+}
+.heading{
+    padding:2vh 0vh 0vh 1vw;
+}
+.flex1{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    
+}
+.flex2{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.flex21{
+    display: flex;
+    flex-direction: row;
+}
+.flex3{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-items: space-between;   
+}
+.timeframe{
+    padding:2vh 0vh 0vh 1vw;
+}
+.flex4{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1vh 0vw;
+    align-items: center;
+}
+
+.tier{
+    padding-left: 1vw;
+    opacity: 0.5;
+    font-weight: 900;
+}
+.flex5{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+   
+    align-items: center;
+    
+}
+.details
+{
+    margin-top: 1vh;
+    align-content: center;
+    justify-content: center;
+    display: flex;
+
+}
+.arrowhead{
+    font-size: 28px;
+}
+.flex6{
+    padding-left: 1vw;
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.apy{
+    color: orange;
+    margin-top: 1vh;
+}
+.rules{
+    color:rgba(0,0,0,0.5);
+    font-weight: 700;
+}
